@@ -41,7 +41,7 @@ calculator-app/
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/calculator-app/issues) if you want to contribute.
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Gupta-Ravi/JsCalculatorApp/issues) if you want to contribute.
 
 1. Fork the project
 2. Create your feature branch (`git checkout -b feature/awesome-feature`)
@@ -52,7 +52,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## 🙏 Acknowledgments
 
