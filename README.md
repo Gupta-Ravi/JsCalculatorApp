@@ -4,15 +4,15 @@ Welcome to the **Calculator App**! This project is a simple, beautiful calculato
 
 ## 🖼️ Screenshot
 
-![Calculator App](./screenshot.png)
+![Calculator App](./screenshot.jpeg)
 
 ## 🚀 Demo
 
-Check out the live demo here: [Calculator App](https://calculator.app)
+Check out the live demo here: [Calculator App](gupta-ravi.github.io/JsCalculatorApp/)
 
 ## 🎥 Tutorial Video
 
-Watch the tutorial video here: [YouTube Tutorial](https://yout.be/jscalculatorapp/64t64ty)
+Watch the tutorial video here: [YouTube Tutorial](https://youtu.be/cGgLHJGyS34)
 
 ## 📋 Features
 
@@ -22,7 +22,12 @@ Watch the tutorial video here: [YouTube Tutorial](https://yout.be/jscalculatorap
 
 ## 🛠️ Installation
 
-1. Clone the repository: `git clone https://github.com/your-github-username/JsWeatherApp.git`
+1. Clone the repository: 
+
+```bash
+git clone https://github.com/your-github-username/JsWeatherApp.git`
+```
+
 2. Open the `index.html` file in your web browser.
 
 ## 📂 Project Structure
