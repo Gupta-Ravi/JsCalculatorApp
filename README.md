@@ -1,8 +1,10 @@
 # 🧮 Calculator App
 
-Welcome to the **Calculator App**! This project is a simple, beautiful calculator built with HTML, CSS, and JavaScript. 
+Welcome to the **Calculator App**! This project is a simple, beautiful calculator built with HTML and CSS.
 
-![Calculator App](https://via.placeholder.com/800x400.png?text=Calculator+App+Screenshot)
+## 🖼️ Screenshot
+
+![Calculator App](./screenshot.png)
 
 ## 🚀 Demo
 
@@ -31,10 +33,6 @@ calculator-app/
 ├── style.css
 └── README.md
 ```
-
-## 🖼️ Screenshot
-
-![Weather App Screenshot](./screenshot.png) 
 
 ## 🤝 Contributing
 
