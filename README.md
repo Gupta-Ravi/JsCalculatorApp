@@ -25,7 +25,7 @@ Watch the tutorial video here: [YouTube Tutorial](https://youtu.be/cGgLHJGyS34)
 1. Clone the repository: 
 
 ```bash
-git clone https://github.com/your-github-username/JsWeatherApp.git`
+git clone https://github.com/your-github-username/JsWeatherApp.git
 ```
 
 2. Open the `index.html` file in your web browser.
