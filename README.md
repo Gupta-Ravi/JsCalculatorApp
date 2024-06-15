@@ -32,6 +32,10 @@ calculator-app/
 └── README.md
 ```
 
+## 🖼️ Screenshot
+
+![Weather App Screenshot](./screenshot.png) 
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/calculator-app/issues) if you want to contribute.
